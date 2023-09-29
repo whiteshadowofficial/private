@@ -5,7 +5,6 @@
   <a href="https://xliconmd2.vercel.app/">
     <img alt="X-2.0" height="300" src="https://i.ibb.co/WfS7yQS/20230929-154551.jpg">
     <h1 align="center">XLICON-2.O<br></h1>
-    
   </a>
 </p>
 <p align="center">
