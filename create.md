@@ -149,7 +149,7 @@ npm start
 
 ```cmd
 > git clone https://github.com/whiteshadowofficial/Jessi-md.git
-> cd Xlicon-v2
+> cd Jessi-md
 > npm i
 > npm start
 ```
