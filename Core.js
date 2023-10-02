@@ -458,10 +458,10 @@ function updateStatus() {
   const uptimeFormatted = formatTime(uptimeInSeconds);
 
   // const status = `
-  // ㅤㅤ〄ㅤㅤ〘 XliconV2-MD Beta Editon〙ㅤㅤ〄ㅤㅤㅤㅤ
+  // ㅤㅤ〄ㅤㅤ〘 Jessi-MD Beta Editon〙ㅤㅤ〄ㅤㅤㅤㅤ
   // ㅤㅤㅤ〘ㅤ Auto Uptime: ${uptimeFormatted}ㅤ〙`;
 
-  function _0x582b(_0xabb6f8,_0x12cdd8){const _0x58e890=_0x58e8();return _0x582b=function(_0x582b90,_0x4387b3){_0x582b90=_0x582b90-0x189;let _0x932613=_0x58e890[_0x582b90];return _0x932613;},_0x582b(_0xabb6f8,_0x12cdd8);}function _0x58e8(){const _0x109554=['12896370RDSmnX','3BgvPel','189HbmdoW','18854HvEPNh','11TZHUID','9125326EcyeIg','464328lPaAMf','3400722cbWEOK','2263175KIczdo','12TaHNqM','2521564eqJRHK'];_0x58e8=function(){return _0x109554;};return _0x58e8();}(function(_0x429d7b,_0x532ab5){const _0x527567=_0x582b,_0x130eb4=_0x429d7b();while(!![]){try{const _0x75c57a=-parseInt(_0x527567(0x18b))/0x1+-parseInt(_0x527567(0x192))/0x2*(-parseInt(_0x527567(0x189))/0x3)+parseInt(_0x527567(0x191))/0x4*(-parseInt(_0x527567(0x190))/0x5)+-parseInt(_0x527567(0x18f))/0x6+parseInt(_0x527567(0x18d))/0x7+parseInt(_0x527567(0x18e))/0x8*(-parseInt(_0x527567(0x18a))/0x9)+parseInt(_0x527567(0x193))/0xa*(parseInt(_0x527567(0x18c))/0xb);if(_0x75c57a===_0x532ab5)break;else _0x130eb4['push'](_0x130eb4['shift']());}catch(_0x19ea04){_0x130eb4['push'](_0x130eb4['shift']());}}}(_0x58e8,0xa8dae));const status='\x0a\x20          \x20『•• \x20Xʟɪᴄᴏɴ-\x20Mᴜʟᴛɪᴅᴇᴠɪᴄᴇ\x20-Vᴇʀꜱɪᴏɴ-2.0\x20 ••』       \x0a\x20\x20ㅤㅤㅤ〘ㅤ\x20Auto\x20Uptime:\x20'+uptimeFormatted+'ㅤ〙';
+  function _0x582b(_0xabb6f8,_0x12cdd8){const _0x58e890=_0x58e8();return _0x582b=function(_0x582b90,_0x4387b3){_0x582b90=_0x582b90-0x189;let _0x932613=_0x58e890[_0x582b90];return _0x932613;},_0x582b(_0xabb6f8,_0x12cdd8);}function _0x58e8(){const _0x109554=['12896370RDSmnX','3BgvPel','189HbmdoW','18854HvEPNh','11TZHUID','9125326EcyeIg','464328lPaAMf','3400722cbWEOK','2263175KIczdo','12TaHNqM','2521564eqJRHK'];_0x58e8=function(){return _0x109554;};return _0x58e8();}(function(_0x429d7b,_0x532ab5){const _0x527567=_0x582b,_0x130eb4=_0x429d7b();while(!![]){try{const _0x75c57a=-parseInt(_0x527567(0x18b))/0x1+-parseInt(_0x527567(0x192))/0x2*(-parseInt(_0x527567(0x189))/0x3)+parseInt(_0x527567(0x191))/0x4*(-parseInt(_0x527567(0x190))/0x5)+-parseInt(_0x527567(0x18f))/0x6+parseInt(_0x527567(0x18d))/0x7+parseInt(_0x527567(0x18e))/0x8*(-parseInt(_0x527567(0x18a))/0x9)+parseInt(_0x527567(0x193))/0xa*(parseInt(_0x527567(0x18c))/0xb);if(_0x75c57a===_0x532ab5)break;else _0x130eb4['push'](_0x130eb4['shift']());}catch(_0x19ea04){_0x130eb4['push'](_0x130eb4['shift']());}}}(_0x58e8,0xa8dae));const status='\x0a\x20          \x20『•• \x20Jessi-\x20Mᴜʟᴛɪᴅᴇᴠɪᴄᴇ\x20-Vᴇʀꜱɪᴏɴ-2.0\x20 ••』       \x0a\x20\x20ㅤㅤㅤ〘ㅤ\x20Auto\x20Uptime:\x20'+uptimeFormatted+'ㅤ〙';
 
   A17.setStatus(status); // Set the status using A17.setStatus or your equivalent method
 
@@ -536,7 +536,7 @@ updateStatus();
 
 
 //     const menulist = `
-//     Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Slasher to take your WhatsApp usage into next level.
+//     Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: White Shadow to take your WhatsApp usage into next level.
         
 //        「 System Info 」
     
@@ -680,11 +680,11 @@ if( smallinput.includes('konichiwa') || smallinput.includes('konochiwa') || smal
 }
 
 
-if (smallinput=='xlicon') {
+if (smallinput=='jessi') {
     reply ('Yes I am Alive 🫂')
 }
 
-if (smallinput=='shinobu') {
+if (smallinput=='owner') {
   reply ('Only you...🫶🏻')
 }
 
@@ -759,7 +759,7 @@ if (responses.hasOwnProperty(smallinput)) {
     A17.sendMessage(from, { react: { text: "❤" , key: m.key }})
     
     let { data } = await axios.get('https://api.github.com/repos/ahil15/Xlicon-v2');
-    teks = `*XLICON Script*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: https://github.com/ahil15/Xlicon-v2\n\nDont forget to follow me on *GitHub* and give a ⭐️ to my projects. `
+    teks = `*Jessi-md Script*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: https://github.com/whiteshadowofficial/Jessi-md\n\nDont forget to follow me on *GitHub* and give a ⭐️ to my projects. `
   /*  let buttons = [
     {buttonId: `${prefix}owner`, buttonText: {displayText: '🍁 DEVELOPER 🍁'}, type: 1}
     ] */
@@ -771,14 +771,14 @@ if (responses.hasOwnProperty(smallinput)) {
     buttons: buttons,
     headerType: 4, */
     contextInfo:{externalAdreply:{
-    title:"Powered by Slasher",
+    title:"Powered bb White Shadow",
     body: " ", 
     thumbnail: fs.readFileSync("Assets/pic2.jpg"),
     mediaType:1,
     //mediaUrl: 'https://wallpapercave.com/wp/wp10524580.jpg',
     //sourceUrl: "https://wallpapercave.com/wp/wp10524580.jpg"
-    mediaUrl: 'github.com/ahil15/Xlicon-v2',
-    sourceUrl: "github.com/ahil15/Xlicon-v2"
+    mediaUrl: 'https://github.com/whiteshadowofficial/Jessi-md',
+    sourceUrl: "https://github.com/whiteshadowofficial/Jessi-md"
     }}
 
     }
@@ -792,7 +792,7 @@ if (responses.hasOwnProperty(smallinput)) {
       if (isBanChat) return reply(mess.bangc);
 
       A17.sendMessage(from, { react: { text: "💫" , key: m.key }})
-    reply(`⚙ *My developer's group:* ⚙ https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2`)
+    reply(`⚙ *My developer's group:* ⚙ https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc`)
     }
     break;
     
@@ -802,7 +802,7 @@ case 'repo': case 'botrepo': {
   if (isBanChat) return reply(mess.bangc);
   
   A17.sendMessage(from, { react: { text: "💫" , key: m.key }})
-    reply(`⚙ My Source Code is </> - https://github.com/ahil15/Xlicon-v2`)
+    reply(`⚙ My Source Code is </> - https://github.com/whiteshadowofficial/Jessi-md`)
     }
     break;
 
@@ -987,7 +987,7 @@ A17.sendMessage(from, { react: { text: '❤', key: m.key }});
     const systemName = os.platform() + ' ' + os.release();
   
     const respon = `
-  🤖 *Xlicon's Server Info* 🤖
+  🤖 *Jessi's Server Info* 🤖
   
   *System*: ${systemName}
   
@@ -2625,7 +2625,7 @@ break;
 case 'ghstalk': case 'githubstalk': case'github': {
   A17.sendMessage(from, { react: { text: "🔍" , key: m.key }})
 
-  if (!q) return reply(`Give me a user name like *${prefix}github ahil15*`)
+  if (!q) return reply(`Give me a user name like *${prefix}github White Shadow*`)
 
   gitdata = await githubstalk.githubstalk(`${q}`)
   A17.sendMessage(m.chat, { image: { url : gitdata.profile_pic }, caption: 
@@ -2663,7 +2663,7 @@ if (isBanChat) return reply(mess.bangc);
 A17.sendMessage(from, { react: { text: "🫡" , key: m.key }})
 
 let anu = await store.chats.all().filter(v => v.id.endsWith('.net')).map(v => v)
-let teks = ` 「  Xlicon's pm user list  」\n\nTotal ${anu.length} users are using A17 in personal chat.`
+let teks = ` 「  Jessi's pm user list  」\n\nTotal ${anu.length} users are using A17 in personal chat.`
 for (let i of anu) {
 teks += `\n\nProfile : @${i.id.split('@')[0]}\nChat : ${i.unreadCount}\nLastchat : ${moment(i.conversationTimestamp * 1000).tz("Asia/Kolkata").format("DD/MM/YYYY HH:mm:ss")}`
 }
@@ -2678,7 +2678,7 @@ if (isBanChat) return reply(mess.bangc);
 A17.sendMessage(from, { react: { text: "🫡" , key: m.key }})
 
 let anu = await store.chats.all().filter(v => v.id.endsWith('@g.us')).map(v => v.id)
-let teks = ` 「  Xlicon's group user list  」\n\nTotal ${anu.length} users are using bot in Groups.`
+let teks = ` 「  Jessi's group user list  」\n\nTotal ${anu.length} users are using bot in Groups.`
 for (let i of anu) {
 let metadata = await A17.groupMetadata(i)
 if (metadata.owner === "undefined") {
@@ -3654,7 +3654,7 @@ case 'invite': {
   if (!isAdmins && !isCreator) return reply(mess.useradmin)
   A17.sendMessage(from, { react: { text: "🫡" , key: m.key }})
   
-if (!text) return reply (`Enter the number you want to invite to the group...\n\nExample :\n*${prefix + command}* 8801853262586`)
+if (!text) return reply (`Enter the number you want to invite to the group...\n\nExample :\n*${prefix + command}* 94779529221`)
 if (text.includes('+')) return reply(`Enter the number together without *+*`)
 if (isNaN(text)) return reply(`Enter only the numbers plus your country code without spaces`)
 let group = m.chat
@@ -3704,7 +3704,7 @@ content: [{ tag: "invite", attrs: { code: vcc } }]
 sizny = res.content[0].attrs.size
 if (sizny < 20) {
 teks = `Sorry, munimun 20 members are required in a group to add bot!`
-sendOrder(m.chat, teks, "667140254502463", fs.readFileSync('./Assets/pic7.jpg'), `${global.packname}`, `${global.BotName}`, "8801853262586@s.whatsapp.net", "AR6NCY8euY5cbS8Ybg5Ca55R8HFSuLO3qZqrIYCT7hQp0g==", "99999999999999999999")
+sendOrder(m.chat, teks, "667140254502463", fs.readFileSync('./Assets/pic7.jpg'), `${global.packname}`, `${global.BotName}`, "94779529221@s.whatsapp.net", "AR6NCY8euY5cbS8Ybg5Ca55R8HFSuLO3qZqrIYCT7hQp0g==", "99999999999999999999")
 } else if (sizny > 20) {
 await A17.groupAcceptInvite(vcc).then(async(res) => reply(jsonformat(res))).catch(_ => _)
 reply("Joined !")
@@ -4954,7 +4954,7 @@ case 'music': case 'p': case 'play': case 'song': case 'ytplay': {
  ]
  let buttonMessage = {
  image: { url: anu.thumbnail },
- caption: `「  Xʟɪᴄᴏɴ Yᴏᴜᴛᴜʙᴇ Pʟᴀʏᴇʀ 2.0  」
+ caption: `「  Jessi Yᴏᴜᴛᴜʙᴇ Pʟᴀʏᴇʀ 2.0  」
 
 ✨ *Title :* ${anu.title}
 
@@ -5057,7 +5057,7 @@ const YT=require('./lib/ytdl-core')
   let search = await yts(text)
   let anu = search.videos[0]
   const ytmp4play = await YT.mp4(anu.url)
-A17.sendMessage(from, {video:{url:ytmp4play.videoUrl}, mimetype:"video/mp4", caption:anu.title+' By *Xʟɪᴄᴏɴ-Mᴜʟɪᴅᴇᴠɪᴄᴇ*',}, {quoted:m})
+A17.sendMessage(from, {video:{url:ytmp4play.videoUrl}, mimetype:"video/mp4", caption:anu.title+' By *Jessi-Mᴜʟɪᴅᴇᴠɪᴄᴇ*',}, {quoted:m})
 }
 
 break;
@@ -5081,7 +5081,7 @@ let buttons = [
 ]
 let buttonMessage = {
 image: { url: anu.thumbnail },
-caption: `「  Xʟɪᴄᴏɴ Yᴏᴜᴛᴜʙᴇ Pʟᴀʏᴇʀ 2.0  」
+caption: `「  Jessi Yᴏᴜᴛᴜʙᴇ Pʟᴀʏᴇʀ 2.0  」
 
 ✨ *Title :* ${anu.title}
 
@@ -5120,7 +5120,7 @@ if (isBanChat) return reply(mess.bangc);
 A17.sendMessage(from, { react: { text: "🍁" , key: m.key }})
 const YT=require('./lib/ytdl-core')
   const ytmp4play2 = await YT.mp4(text)
-A17.sendMessage(from, {video:{url:ytmp4play2.videoUrl}, mimetype:"video/mp4", caption:'Downloaded by *Xʟɪᴄᴏɴ-Mᴜʟɪᴅᴇᴠɪᴄᴇ*',}, {quoted:m})
+A17.sendMessage(from, {video:{url:ytmp4play2.videoUrl}, mimetype:"video/mp4", caption:'Downloaded by *Jessi-Mᴜʟɪᴅᴇᴠɪᴄᴇ*',}, {quoted:m})
 }
 break;
 
@@ -5302,7 +5302,7 @@ break;
 //   }
 
 //   // Send each image with a common caption
-//   const commonCaption = 'Check out this image from Pinterest By Xʟɪᴄᴏɴ-Mᴜʟɪᴅᴇᴠɪᴄᴇ';
+//   const commonCaption = 'Check out this image from Pinterest By Jessi-Mᴜʟɪᴅᴇᴠɪᴄᴇ';
 //   for (let i = 0; i < results.length; i++) {
 //     A17.sendMessage(m.chat, { image: { url: results[i] }, caption: commonCaption }, { quoted: m });
 //   }
@@ -6674,7 +6674,7 @@ break;
 ❒│▸  *Pʟᴜɢɪɴꜱ : 『 350 』✨
 ❒│▸  *Pʀᴇꜰɪx : 『  ${prefix} 』*  💡
 ❒│▸  *Rᴜɴᴛɪᴍᴇ : ${runtime(process.uptime())}* 💻
-❒│▸ *Dᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ Sʟᴀꜱʜᴇʀ-Sᴇʀ* 🐉
+❒│▸ *Dᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ White Shadow* 🐉
 ┬│
 │╰───────────···▸▸
 └──────────────···▸▸▸
@@ -6966,7 +6966,7 @@ break;
 ⬡│       ᴛʜᴇꜱᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ᴛʏᴘᴇ
 ⬡│      *${prefix}<ᴄᴏᴍᴍᴀɴᴅ ɴᴀᴍᴇ>*
 ⬡│
-⬡│▸ ⚡ ᴘᴏᴡᴇʀᴇᴅ ʙʏ xʟɪcᴏɴ-ᴍᴅ
+⬡│▸ ⚡ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴊᴇꜱꜱɪ ᴍᴅ
 ┬│
 │╰────────────···▸▸
 ╰ ──────────────···▸▸▸`
