@@ -30,6 +30,12 @@
 [MrChaby](https://github.com/MrChaby)  | [Mr.White Shadow](https://github.com/whiteshadowofficial) | [Diegoson](https://github.com/D3centX)
 Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
+[![Tutux](https://github.com/Tutux1.png?size=100)](https://github.com/Tutux1) |  [![Black Panther Shadow](https://github.com/blackpantherofc.png?size=100)](https://github.com/blackpantherofc) | [![Diegoson](https://github.com/D3centX.png?size=100)](https://github.com/D3centX) 
+----|----|----
+[Tutux](https://github.com/Tutux1)  | [Black Panther](https://github.com/blackpantherofc) | [Diegoson](https://github.com/D3centX)
+Modifiying  as   public | Modifiying  as   public | Modifiying  as   public
+
+
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Mr.White Shadow`](https://github.com/whiteshadowofficial)
