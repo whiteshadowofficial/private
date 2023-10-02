@@ -1,8 +1,8 @@
 
 {
-    "name": "Xlicon-v2",
+    "name": "Jessi-md",
     "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
-    "repository": "https://github.com/ahil15/Xlicon-v2",
+    "repository": "https://github.com/whiteshadowofficial/Jessi-md",
     "logo": "https://i.ibb.co/0Kc215k/images.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "buildpacks": [
