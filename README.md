@@ -4,6 +4,9 @@
 
 ## MS.JESSICA
 
+💥 Setup Bot
+https://github.com/whiteshadowofficial/Jessi-md/blob/main/create.md
+
 ## 💗 Credit 💗
  
 ----
