@@ -5,7 +5,9 @@
 ## MS.JESSICA
 
 💥 Setup Bot
-https://github.com/whiteshadowofficial/Jessi-md/blob/main/create.md
+
+[![Website](https://img.shields.io/badge/Select-Website-white.svg)](https://github.com/whiteshadowofficial/Jessi-md/blob/main/create.md)
+
 
 ## 💗 Credit 💗
  
