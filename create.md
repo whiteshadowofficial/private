@@ -1,5 +1,5 @@
 
-# 𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗢𝗧 📕
+# 𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗢𝗧 🐇
 
 
 ## Installation ➡ 📖
@@ -26,7 +26,7 @@ global.BotName = "Jessi-md";
 
 ## Qr Setup 📲
 
-- Click the [`Scan Qr`](https://replit.com/@ahil15/XLICON-Multi-qr?v=1) from ***Xlicon-v2*** Repository
+- Click the [`Scan Qr`](https://replit.com/@kaweeshac14/Jessi-Multi-qr-1?v=1) from ***Xlicon-v2*** Repository
 
 - Scan the Qr on your Bot Number
 
