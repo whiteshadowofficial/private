@@ -17,15 +17,15 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["8801853262586","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8801853262586","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801928502256"];
-global.OwnerName = "Slasher";
-global.BotName = "XLICON-MD";
-global.packname = "X-2.0 Bot";                             //Do not change.
-global.author = "By: Slasher";                               //Do not change.
-global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"; 
+global.Owner = ["94779529221","94757534153"];         //If you want singal number so global.Owner = ['94779529221'] Change into your number.
+global.OwnerNumber = ["94757534153","94779529221"];   //If you want singal number so global.Owner = ['94779529221'] Change into your number.
+global.ownertag = ["94779529221"];
+global.OwnerName = "Mr.White Shadow";
+global.BotName = "Jessi-Md";
+global.packname = "Jessi-md bot";                             //Do not change.
+global.author = "By: Mr.White Shadow";                               //Do not change.
+global.BotSourceCode = "https://github.com/whiteshadowofficial/Jessi-md"; //Do not change.
+global.SupportGroupLink = "https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc"; 
 
 
 //
@@ -42,7 +42,7 @@ global.location = "Dhaka, Bangladesh";
 global.reactmoji = "✅";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
-global.websitex = "https://github.com/ahil15";
+global.websitex = "https://github.com/whiteshadowofficial";
 global.lolhuman = "KaysaS";
 
 
@@ -77,18 +77,18 @@ global.ntilink = []
 //
 global.mess = {
     jobdone: 'Here you go...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+    useradmin: 'Sorry, only *Group Admins* can use this command *Kick*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
+    botowner: 'Only my *Owner* can use this command, Kick!',
+    grouponly: 'This command is only made for *Groups*, Kick!',
+    privateonly: 'This command is only made for *Private Chat*, Kick!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Just Wait...',
-    nolink: 'Please provide me *link*, Baka!',
+    nolink: 'Please provide me *link*, Kick!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    nonsfw: 'Dont be a pervert Kick! This is not a NSFW enabled group!'
     
 }
 
