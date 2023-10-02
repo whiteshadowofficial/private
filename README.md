@@ -25,16 +25,16 @@
 ## Developers
   <div align="center">
     
-  [![MrChaby](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) |  [![Mr.White Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) | [![Tutux](https://github.com/Tutux1.png?size=100)](https://github.com/Tutux1) 
+  [![MrChaby](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) |  [![Mr.White Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) | [![Diegoson](https://github.com/D3centX.png?size=100)](https://github.com/D3centX) 
 ----|----|----
-[MrChaby](https://github.com/MrChaby)  | [Mr.White Shadow](https://github.com/whiteshadowofficial) | [Tutux](https://github.com/Tutux1)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[MrChaby](https://github.com/MrChaby)  | [Mr.White Shadow](https://github.com/whiteshadowofficial) | [Diegoson](https://github.com/D3centX)
+Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Mr.White Shadow`](https://github.com/whiteshadowofficial)
-* [`Black Panther`](github.com/blackpantherofc)
-* [`MrChaby`](github.com/MrChaby)
+* [`Diegoson`](https://github.com/D3centX)
+* [`Diegoson`](github.com/D3centX)
 
 
 
