@@ -1,6 +1,6 @@
 {
     "name": "Jessi-md",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Jessi is a WhatsApp multiDevice Bot based on A17 and Baileys written in Javascript.",
     "main": "index.js",
     "directories": {
@@ -38,7 +38,7 @@
         "@shineiichijo/mal-news-scraper": "^0.0.2",
         "@shineiichijo/marika": "^2.0.6",
         "@shineiichijo/nhentai-pdf": "^1.0.5",
-        "@whiskeysockets/baileys": "^6.4.1",
+        "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
         "anime-wallpaper": "^1.1.1",
         "awesome-phonenumber": "^2.70.0",
         "axios": "^0.24.0",
@@ -81,7 +81,7 @@
         "minecraft-query": "^1.0.13",
         "moment-timezone": "^0.5.34",
         "mongoose": "^6.2.1",
-        "mumaker": "^1.0.0",
+        "mumaker": "^2.0.0",
         "node-cron": "^3.0.0",
         "node-fetch": "^2.6.1",
         "node-id3": "^0.2.3",
