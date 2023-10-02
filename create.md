@@ -1,18 +1,12 @@
 
-# Guide 📕
-
-Here you can get the proper written explanation of ***XLICON-V2*** Setup and Deployments
-
-## Notice
-
-If you re-upload  anything from my ***REPOSITORY*** give me ***Credit*** Else I can Take Legal Action On You!⚠
+# 𝗖𝗥𝗘𝗔𝗧𝗘 𝗕𝗢𝗧 📕
 
 
 ## Installation ➡ 📖
 
-- Fork [`Xlicon-v2`](https://github.com/ahil15/Xlicon-v2/fork) repository and give a Star to the Repository
+- Fork [`Xlicon-v2`](https://github.com/whiteshadowofficial/Jessi-md/fork) repository and give a Star to the Repository
 
-- Edit [`config.js`](https://github.com/ahil15/Xlicon-v2/blob/master/config.js) file on your own repository
+- Edit [`config.js`](https://github.com/whiteshadowofficial/Jessi-md/blob/master/config.js) file on your own repository
 
 - Upload your bot number and owner number there
 
@@ -22,11 +16,11 @@ If you re-upload  anything from my ***REPOSITORY*** give me ***Credit*** Else I 
 
 
 ```js
-global.Owner = ["8801853262586"]; 
-global.OwnerNumber = ["8801853262586"];
-global.ownertag = ["8801853262586"];
-global.OwnerName = "Slasher";
-global.BotName = "X-2.0";
+global.Owner = ["94779529221"]; 
+global.OwnerNumber = ["94779529221"];
+global.ownertag = ["779529221"];
+global.OwnerName = "Mr.White Shadow";
+global.BotName = "Jessi-md";
 ```
 
 
@@ -40,13 +34,13 @@ global.BotName = "X-2.0";
 
 - ***Download*** `creds.json` file
 
-- Upload the `creds.json` file on ***XLICON-SESSION*** folder
+- Upload the `creds.json` file on ***Jessi-md-sesson*** folder
 
 
-## Heroku Deploy ✅
+## Heroku Deploy 💥
 
 
-- Click the [`heroku-Deploy`](https://heroku.com/deploy?template=https://github.com/ahil15/Xlicon-v2) option in ***XLICON-V2*** repository
+- Click the [`heroku-Deploy`](https://heroku.com/deploy?template=https://github.com/whiteshadowofficial/Jessi-md) option in ***𝗝𝗘𝗦𝗦𝗜 𝗠𝗗*** repository
 
 - Deploy the repository first using my repository
 
@@ -54,7 +48,7 @@ global.BotName = "X-2.0";
 
 - Connect the heroku with your Github Account
 
-- Now Connect it with your `XLICON-V2` Repository
+- Now Connect it with your `Jessi-md` Repository
 
 - Click Deploy
 
@@ -71,7 +65,7 @@ global.BotName = "X-2.0";
 - Then your bot is ready to use
 
 
-## Mogenius Deploy ✅
+## Mogenius Deploy 💥
 
 - Click the [`mongenius Deploy`](https://studio.mogenius.com/) option from the repository
 
@@ -89,7 +83,7 @@ global.BotName = "X-2.0";
 
 - Adjust `Ram,Cpu,Temp-Storage` by your own
 
-- Select your github repository to ***XLICON-V2***
+- Select your github repository to ***Jessi-md***
 
 - Then Click Create/Deploy and wait for deploy
 
@@ -134,8 +128,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/ahil15/Xlicon-v2
-cd Xlicon-v2
+git clone https://github.com/whiteshadowofficial/Jessi-md
+cd Jessi-md
 npm i
 npm start
 ```
@@ -154,7 +148,7 @@ npm start
 * [`Download Libwebp`](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/ahil15/Xlicon-v2.git
+> git clone https://github.com/whiteshadowofficial/Jessi-md.git
 > cd Xlicon-v2
 > npm i
 > npm start
