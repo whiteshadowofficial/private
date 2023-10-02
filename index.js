@@ -1,3 +1,33 @@
+/*
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░██░░███████░░███████░░███████░░██░
+░░░░██░░███████░░███████░░███████░░██░
+░░░░██░░██╝░░░░░░██╝░╚██░░██╝░╚██░░░░░
+░░░░██░░██╗░░░░░░██╗░░░░░░██╗░░░░░░██░
+░░░░██░░███████░░███████░░███████░░██░
+░░░░██░░███████░░███████░░███████░░██░
+░░░░██░░██╝░░░░░░░░░░╚██░░░░░░╚██░░██░
+░░░░██░░██╗░░░░░░██╗░╔██░░██╗░╔██░░██░
+██╗╔██░░███████░░███████░░███████░░██░
+░╚██╝░░░███████░░███████░░███████░░██░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+███░░░░░░░░███░░░░░░████╗░░░░░░░░░░░░░
+███╗░░░░░░╔███░░░░░░██╝╚██╗░░░░░░░░░░░
+██╚██╗░░╔██╝██░░░░░░██░░╚██░░░░░░░░░░░
+██░╚██╗╔██╝░██░░░░░░██░░░██░░░░░░░░░░░
+██░░░╚██╝░░░██░░░░░░██░░░██░░░░░░░░░░░
+██░░░░░░░░░░██░░░░░░██░░╔██░░░░░░░░░░░
+██░░░░░░░░░░██░░░░░░██╗╔██╝░░░░░░░░░░░
+██░░░░░░░░░░██░░░░░░████╝░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Copyright (C) 2021 Mr.White Shadow.
+Licensed under the  GPL-3.0 License;
+you may not use this file except in compliance with the License.
+*/
+
 require("./config.js");
 const {
   default: A17Connect,
@@ -51,7 +81,7 @@ const store = makeInMemoryStore({
 async function startA17() {
   console.log(
     color(
-      figlet.textSync("XLICON-MD", {
+      figlet.textSync("Jessi-md", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -62,14 +92,14 @@ async function startA17() {
       "green"
     )
   );
-  console.log(color('\nHello, I am Slasher, the Developer of this bot.\n\nThanks for using: Xlicon Bot.', 'aqua'))
+  console.log(color('\nHello, I am White Shadow, the Developer of this bot.\n\nThanks for using: Jessi-md Bot.', 'aqua'))
   console.log(color('\nYou can follow me on GitHub: ahil15', 'aqua'))
 
-  const { state, saveCreds } = await useMultiFileAuthState("./XLICON-SESSION");
+  const { state, saveCreds } = await useMultiFileAuthState("./Jessi-Session");
   const A17 = A17Connect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["XLICON-2.0", "Safari", "3.O"],
+    browser: ["Jessi-md-2.0", "Safari", "3.O"],
     auth: state,
   });
 
@@ -124,20 +154,20 @@ async function startA17() {
       }
       let wm_fatih = { url: ppgc }
       if (pea[0].announce == true) {
-        //A17.send5ButImg(pea[0].id, `Group has been *Closed!* Only *Admins* can send Messages!`, `Xlicon Bot`, wm_fatih, [])
+        //A17.send5ButImg(pea[0].id, `Group has been *Closed!* Only *Admins* can send Messages!`, `Jessi-md Bot`, wm_fatih, [])
   
         A17.sendMessage(m.chat, { image: wm_fatih, caption: 'Group has been *Closed!* Only *Admins* can send Messages!' })
       } else if (pea[0].announce == false) {
-        // A17.send5ButImg(pea[0].id, `Grop has been *Opened!* Now *Everyone* can send Messages!`, `Xlicon Bot`, wm_fatih, [])
+        // A17.send5ButImg(pea[0].id, `Grop has been *Opened!* Now *Everyone* can send Messages!`, `Jessi-md Bot`, wm_fatih, [])
         A17.sendMessage(m.chat, { image: wm_fatih, caption: 'Grop has been *Opened!* Now *Everyone* can send Messages!' })
       } else if (pea[0].restrict == true) {
-        //A17.send5ButImg(pea[0].id, `Group Info modification has been *Restricted*, Now only *Admins* can edit Group Info !`, `Xlicon bot`, wm_fatih, [])
+        //A17.send5ButImg(pea[0].id, `Group Info modification has been *Restricted*, Now only *Admins* can edit Group Info !`, `Jessi-md Bot`, wm_fatih, [])
         A17.sendMessage(m.chat, { image: wm_fatih, caption: 'Group Info modification has been *Restricted*, Now only *Admins* can edit Group Info !' })
       } else if (pea[0].restrict == false) {
-        //A17.send5ButImg(pea[0].id, `Group Info modification has been *Un-Restricted*, Now only *Everyone* can edit Group Info !`, `Xlicon bot`, wm_fatih, [])
+        //A17.send5ButImg(pea[0].id, `Group Info modification has been *Un-Restricted*, Now only *Everyone* can edit Group Info !`, `Jessi-md Bot`, wm_fatih, [])
         A17.sendMessage(m.chat, { image: wm_fatih, caption: 'Group Info modification has been *Un-Restricted*, Now only *Everyone* can edit Group Info !' })
       } else {
-        //A17.send5ButImg(pea[0].id, `Group Subject has been uhanged To:\n\n*${pea[0].subject}*`, `Xlicon Bot`, wm_fatih, [])
+        //A17.send5ButImg(pea[0].id, `Group Subject has been uhanged To:\n\n*${pea[0].subject}*`, `Jessi-md Bot`, wm_fatih, [])
         A17textddfq = `Group Subject has been updated To:\n\n*${pea[0].subject}*`
         A17.sendMessage(pea[0].id, { image: wm_fatih, caption: A17textddfq })
       }
@@ -183,7 +213,7 @@ async function startA17() {
             A17text = `
   Hello @${WAuserName.split("@")[0]},
   
-  I am *Xlicon Bot*, Welcome to ${metadata.subject}.
+  I am *Jessi-md Bot*, Welcome to ${metadata.subject}.
   
   *Group Description:*
   ${metadata.desc}
@@ -258,7 +288,7 @@ A17.ev.on('group-participants.update', async (anu) => {
           A17text = `
 Hello @${WAuserName.split("@")[0]},
 
-I am *Xlicon Bot*, Welcome to ${metadata.subject}.
+I am *Jessi-md Bot*, Welcome to ${metadata.subject}.
 
 *Group Description:*
 ${metadata.desc}
