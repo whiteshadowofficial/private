@@ -1,7 +1,7 @@
 {
-    "name": "xlicon",
+    "name": "Jessi-md",
     "version": "1.0.0",
-    "description": "Xlicon is a WhatsApp multiDevice Bot based on A17 and Baileys written in Javascript.",
+    "description": "Jessi is a WhatsApp multiDevice Bot based on A17 and Baileys written in Javascript.",
     "main": "index.js",
     "directories": {
         "lib": "lib"
@@ -12,17 +12,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ahil15/Xlicon-v2.git"
+        "url": "git+https://github.com/whiteshadowofficial/Jessi-md.git"
     },
     "keywords": [
         "md-bot"
     ],
-    "author": "Slasher",
+    "author": "White Shadow",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/ahil15/Xlicon-v2issues"
+        "url": "https://github.com/whiteshadowofficial/Jessi-mdissues"
     },
-    "homepage": "https://github.com/ahil15/Xlicon-v2#readme",
+    "homepage": "https://github.com/whiteshadowofficial/Jessi-md#readme",
     "devDependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
