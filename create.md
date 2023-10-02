@@ -4,7 +4,7 @@
 
 ## Installation ➡ 📖
 
-- Fork [`Xlicon-v2`](https://github.com/whiteshadowofficial/Jessi-md/fork) repository and give a Star to the Repository
+- Fork [`Jessi-md`](https://github.com/whiteshadowofficial/Jessi-md/fork) repository and give a Star to the Repository
 
 - Edit [`config.js`](https://github.com/whiteshadowofficial/Jessi-md/blob/master/config.js) file on your own repository
 
