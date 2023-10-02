@@ -1,4 +1,4 @@
 
 {
-	"name": "Xlico Bot Multi Device "
+	"name": "Jessi-md Bot Multi Device "
 }
