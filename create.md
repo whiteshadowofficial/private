@@ -26,7 +26,7 @@ global.BotName = "Jessi-md";
 
 ## Qr Setup 📲
 
-- Click the [`Scan Qr`](https://replit.com/@kaweeshac14/Jessi-Multi-qr-1?v=1) from ***Xlicon-v2*** Repository
+- Click the [`Scan Qr`](https://replit.com/@kaweeshac14/Jessi-Multi-qr-1?v=1) from ***Jessi-md*** Repository
 
 - Scan the Qr on your Bot Number
 
