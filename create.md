@@ -6,7 +6,7 @@
 
 ## Qr Setup 📲
 
-- Click the [`Scan Qr`](https://replit.com/@kaweeshac14/Jessi-Multi-qr-1?v=1) from ***Jessi-md*** Repository
+- Click the [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@kaweeshac14/Jessi-Multi-qr-1?v=1) from ***Jessi-md*** Repository
 
 - Scan the Qr on your Bot Number
 
