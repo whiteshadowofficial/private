@@ -14,29 +14,27 @@ Qr Setup
 
 > <a href="https://github.com/whiteshadowofficial/Jessi-md/blob/main/create.md"><img src="https://img.shields.io/badge/Setup-Qr-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
-# Select one of the following to deploy the bot.
+💥 Select one of the following to deploy the bot.
 
-Heroku
+💫 Heroku
 
 > <a href="https://github.com/whiteshadowofficial/Jessi-md/blob/main/heroku.md"><img src="https://img.shields.io/badge/Deploy-jessi md-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
 
-Mogenius
+💫 Mogenius
 
 > <a href="https://github.com/whiteshadowofficial/Jessi-md/blob/main/mogenius.md"><img src="https://img.shields.io/badge/Deploy-jessi md-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
-Codespaces 
+💫 Codespaces 
 
 > <a href="
 https://github.com/whiteshadowofficial/Jessi-md/blob/main/codespaces.md"><img src="https://img.shields.io/badge/Deploy-jessi md-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
-Termux
+💫 Termux
 
 > <a href="https://github.com/whiteshadowofficial/Jessi-md/blob/main/termux.md"><img src="https://img.shields.io/badge/Deploy-jessi md-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
-
-
-Windows Cmd & Vs
+💫 Windows Cmd & Vs
 
 > <a href="https://github.com/whiteshadowofficial/Jessi-md/blob/main/windows.md"><img src="https://img.shields.io/badge/Deploy-jessi md-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
