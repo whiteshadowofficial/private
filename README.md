@@ -16,28 +16,11 @@ Scan Qr Code
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@kaweeshac14/Jessi-Multi-qr-1?v=1)
 
-💥02
-Download creds.json file
+## Command For 24/7 🔷🔋
+```js
+npm i -g forever && forever index.js && forever save && forever logs
+```
 
-💥03
-Fork The Repository 
-
-💥04
-Upload creds json to jessi-md-sesson Folder
-
-💥05
-Create Heroku Account 
-
-💥06
-Create Heroku Deploy link
-
-```https://heroku.com/deploy?template=```
-
-💥07
-Deploy To Heroku 
-
-💥08 
-Connect Github Repository to Heroku
 
 ### 🔒 What about our security?
 
