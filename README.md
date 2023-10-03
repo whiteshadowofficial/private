@@ -4,11 +4,17 @@
 
 ## MS.JESSICA
 
+> Bot Written By @Mr.White Shadow with Baileys. Jessi has a lot of Features/Commands Including Voice Chat [ AI ]
+.
+----
+
 Heroku Installation 
 
 💥 01
 Scan Qr Code
-https://replit.com/@kaweeshac14/Jessi-Multi-qr-1?v=1
+
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@kaweeshac14/Jessi-Multi-qr-1?v=1)
 
 💥02
 Download creds.json file
@@ -32,6 +38,35 @@ Deploy To Heroku
 
 💥08 
 Connect Github Repository to Heroku
+
+### 🔒 What about our security?
+
+If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button
+
+
+**As per the license, You Can** But We Will Not Support. 🙃
+
+### ❔ How many features/commands are there in this bot?
+
+There are **350+** Features/Commands Are there in **this bot!**
+
+## ⚠ Warning ⚠
+
+```
+By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
+Jessi or we are not responsible for your account, 
+This bot is intended for the purpose of having fun with some fun commands 
+and group management with some helpfull commands.
+
+If  you ended up spamming groups, getting reported left and right, 
+and you ended up in being fight with WhatsApp
+and at the end WhatsApp Team deleted your account. DON'T BLAME US.
+
+No personal support will be provided / We won't spoon feed you. 
+If you need help ask in our support group 
+and we will try to help you.
+```
+  
 
 ## 💗 Credit 💗
  
