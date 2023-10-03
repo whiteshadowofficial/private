@@ -39,8 +39,6 @@ Modifiying  as   public | Modifiying  as   public | Help To Me
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Mr.White Shadow`](https://github.com/whiteshadowofficial)
-* [`Diegoson`](https://github.com/D3centX)
-* [`Diegoson`](github.com/D3centX)
 
 
 
