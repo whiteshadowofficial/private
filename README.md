@@ -8,14 +8,7 @@
 .
 ----
 
-### ⏱️ Heroku Installation 
-
-💥 01
-Scan Qr Code
-
-
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@kaweeshac14/Jessi-Multi-qr-1?v=1)
-
+### ⏱️ Jessi-md Installation 
 
 Qr Setup
 
