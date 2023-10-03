@@ -1,13 +1,37 @@
-
+ 
 <img src="https://telegra.ph/file/57e0679dc28177770f449.jpg" alt="nz" width="350"/>
 </p>
 
 ## MS.JESSICA
 
-💥 Setup Bot
+Heroku Installation 
 
-[![Website](https://img.shields.io/badge/Select-Website-white.svg)](https://github.com/whiteshadowofficial/Jessi-md/blob/main/create.md)
+💥 01
+Scan Qr Code
+https://replit.com/@kaweeshac14/Jessi-Multi-qr-1?v=1
 
+💥02
+Download creds.json file
+
+💥03
+Fork The Repository 
+
+💥04
+Upload creds json to jessi-md-sesson Folder
+
+💥05
+Create Heroku Account 
+
+💥06
+Create Heroku Deploy link
+
+```https://heroku.com/deploy?template=```
+
+💥07
+Deploy To Heroku 
+
+💥08 
+Connect Github Repository to Heroku
 
 ## 💗 Credit 💗
  
