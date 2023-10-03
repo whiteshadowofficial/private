@@ -23,12 +23,12 @@ Qr Setup
 
 Heroku
 
-> <a href="https://github.com/whiteshadowofficial/Jessi-md/blob/main/heroku.md"><img src="https://img.shields.io/badge/Contact-White Shadow-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
+> <a href="https://github.com/whiteshadowofficial/Jessi-md/blob/main/heroku.md"><img src="https://img.shields.io/badge/Deploy-jessi-md-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
 
 Mogenius
 
-> <a href="https://github.com/whiteshadowofficial/Jessi-md/blob/main/mogenius.md"><img src="https://img.shields.io/badge/Deploy-jessi md-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
+> <a href="https://github.com/whiteshadowofficial/Jessi-md/blob/main/mogenius.md"><img src="https://img.shields.io/badge/Deploy-jessi-md-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
 Codespaces 
 
