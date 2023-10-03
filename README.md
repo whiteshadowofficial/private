@@ -14,6 +14,8 @@ Qr Setup
 
 > <a href="https://github.com/whiteshadowofficial/Jessi-md/blob/main/create.md"><img src="https://img.shields.io/badge/Setup-Qr-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
 
+# Select one of the following to deploy the bot.
+
 Heroku
 
 > <a href="https://github.com/whiteshadowofficial/Jessi-md/blob/main/heroku.md"><img src="https://img.shields.io/badge/Deploy-jessi md-ff0000?style=for-the-badge&logo=github&logoColor=ff000000&link=https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg" /><br>
